@@ -5,3 +5,4 @@ Este documento tendrá las consolas de videojuegos de todos los tiempos.
 ## Listado de Consolas
 
 1. Atari
+2. Intellevision
